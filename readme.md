@@ -2,8 +2,7 @@ This is a simple demo to portray a motel booking system using AngularJS, HTML an
 
 Conditions for calculating the final cost:
 ● The motel has two levels.
-● Because the second level is only accessible via an outdoor staircase, rooms on this level
-are not handicap accessible.
+● Because the second level is only accessible via an outdoor staircase, rooms on this level are not handicap accessible.
 ● Rooms can have 1, 2, or 3 beds, at the following nightly costs:
 ○ 1 bed - $50 per night
 ○ 2 beds - $75 per night
