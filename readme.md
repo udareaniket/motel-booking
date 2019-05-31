@@ -11,3 +11,4 @@ are not handicap accessible.
 ● The motel allows guests to bring pets, but they charge $20 per pet and limit it to 2 pets
 maximum. Also, because some pets are messy, pets are only allowed on the ground
 floor so that cleaning is easier to perform if necessary.
+
