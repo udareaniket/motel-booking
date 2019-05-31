@@ -34,11 +34,11 @@ myApp.controller('controller', [ '$scope', function($scope) {
 		$scope.warning = [];
 		$scope.cost = 0;
 		if($scope.petCount >0){
-			$scope.warning.push("*Pets are only allowed on the ground floor so that cleaning is easier to perform if necessary.");
+			$scope.warning.push("**Pets are only allowed on the ground floor so that cleaning is easier to perform if necessary.");
 			$scope.showWarning = true;
 		}
 		if($scope.accessibility >0){
-			$scope.warning.push("**Only ground floor rooms are handicap accessible.");
+			$scope.warning.push("*Only ground floor rooms are handicap accessible.");
 			$scope.showWarning = true;
 		}
 		if($scope.bedCount != ""){
